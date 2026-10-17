@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+with+React+%26+TypeScript;Strengthening+my+JavaScript+fundamentals;Learning+Express.js+%26+PostgreSQL;Turning+ideas+into+working+projects" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ferdous1996h&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
